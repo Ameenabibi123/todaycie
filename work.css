@@ -1,10 +1,23 @@
+<!DOCTYPE html>
 <html>
-    <head>
-        <title>This is Devops lab </title>
-    </head>
-    <body>
-        <p>Kle technology university</p>
-        <p>BCA Department</p>
-    </body>
-    </html>
-    
+<head>
+<style>
+  .varshini-name {
+    color: #1e90ff; /* Dodger Blue */
+    font-size: 24px;
+    font-family: 'Arial', sans-serif;
+    font-weight: bold;
+    text-shadow: 2px 2px #00ff00; /* Green shadow */
+    border: 2px solid #ff1493; /* Deep Pink border */
+    padding: 10px;
+    background-color: #f0e68c; /* Khaki background */
+    text-align: center;
+  }
+</style>
+</head>
+<body>
+
+<div class="varshini-name">Varshini</div>
+
+</body>
+</html>
